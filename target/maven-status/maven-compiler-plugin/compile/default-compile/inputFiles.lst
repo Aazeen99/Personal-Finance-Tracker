@@ -1,16 +1,16 @@
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\TransactionHistory.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\userLogin.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\userAuthentication.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\DatabaseManager.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\expenseTracker.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\billManagement.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\userRegistration.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\ViewIncome.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\AddBudget.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\IncomeTracker.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\dashboard.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\ViewBudget.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\AddIncome.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\BudgetManager.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\BillPaymentReminder.java
-E:\personalFinanceManagement\src\main\java\personalfinancemanagement\PersonalFinanceManagement.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\UserServices\userLogin.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\BillManagement\billManagement.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\BudgetManagement\ViewBudget.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\BillManagement\BillPaymentReminder.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\Database\DatabaseManager.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\UserServices\dashboard.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\IncomeManagement\ViewIncome.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\Database\TransactionHistory.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\UserServices\userRegistration.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\BudgetManagement\AddBudget.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\ExpenseManagement\expenseTracker.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\UserServices\userAuthentication.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\IncomeManagement\AddIncome.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\UserServices\PersonalFinanceManagement.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\IncomeManagement\IncomeTracker.java
+E:\Personal Finance Tracker\src\main\java\personalfinancemanagement\BudgetManagement\BudgetManager.java
