@@ -22,7 +22,7 @@ class userLogin implements ActionListener{
     JButton registerButton, loginButton;
     JLabel registrationLabel;
     
-    userLogin(){
+    public userLogin(){
         loginFrame = new JFrame();
         
         title = new JLabel("Login");
